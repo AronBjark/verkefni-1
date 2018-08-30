@@ -1,0 +1,39 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 1px solid blue; /* 3 skipanir i einni */
+    max-width: 50em;
+    margin-right: auto;
+    margin-left:auto;
+    padding: 1em;
+}
+h1 {
+    color: blue;
+}
+h2{
+    color: red;
+}
+.lennon {
+    color: #00f;
+    font-style: italic;
+}
+.lennon strong{
+    color:red;
+}
+ul li{
+    color: green;
+}
+em{
+    color: #00f;
+}
+p strong{
+    color: red;
+}
+a:link{
+    color: red;
+}
+a:visited{
+    color: green;
+}
+a:hover, a:active{
+    color: #00f;
+}
